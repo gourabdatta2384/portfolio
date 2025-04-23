@@ -1,6 +1,4 @@
-# Gourab Datta
 
-![Profile Picture](assets/profile.jpg)
 
 **Student | AI Enthusiast | Developer**
 
@@ -20,7 +18,7 @@ A passionate student with a keen interest in machine learning, deep learning, an
 
 **CSE, B.Sc**  
 *Daffodil International University, Dhaka, Bangladesh*  
-2017 – 2021
+2019 – 2022
 
 ---
 
@@ -29,21 +27,16 @@ A passionate student with a keen interest in machine learning, deep learning, an
 **AI Research Intern – XYZ Institute**  
 *Jan 2024 – Apr 2024*  
 - Worked on building a sentiment analysis model using BERT  
-- Improved model accuracy by 10% by optimizing preprocessing steps  
+- Improved model accuracy by 10% by optimising preprocessing steps  
 - Published a blog on the model architecture and performance
-
-**Web Developer – Freelance**  
-*Jul 2023 – Dec 2023*  
-- Developed responsive websites for small businesses using React and Tailwind CSS  
-- Integrated payment systems and user authentication
 
 ---
 
 ## 💼 Skills
 
-- **Programming Languages:** Python, JavaScript, C++
-- **Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-learn, React
-- **Tools:** Git, Docker, VS Code, Jupyter, Postman
+- **Programming Languages:** Python, Java, SQL, R, C
+- **Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-learn, Keras
+- **Tools:** Git, VS Code, Jupyter
 
 ---
 
