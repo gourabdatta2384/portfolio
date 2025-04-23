@@ -12,17 +12,17 @@ Title
 - Timeline
 
 ## Projects
-### Machine Learning Projects
+Machine Learning Projects
 -Project 1
 -Project 2
 -Project 3
 
-### Deep Learning Projects
+Deep Learning Projects
 -Project 1
 -Project 2
 -Project 3
 
-### NLP Projects
+NLP Projects
 -Project 1
 -Project 2
 -Project 3
