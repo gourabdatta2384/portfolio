@@ -1,6 +1,6 @@
 # Student
 
-##Education
+## Education
 CSE, M.Sc
 Jashore University of Science and Technology, Jashore, Bangladesh
 CSE, B.SC
