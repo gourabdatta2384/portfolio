@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <div style="text-align: center; position: relative; display: inline-block;">
   <h1 style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); color: #333;">
     Gourab Datta
