@@ -1,6 +1,6 @@
-#title:   Gourab Datta
-#logo: assets/img/main Logo.png
+title:   Gourab Datta
+logo: assets/img/main Logo.png
 description: Student | AI Enthusiast | Researcher
-#show_downloads: true
+show_downloads: true
 #google_analytics:
 theme: jekyll-theme-minimal
