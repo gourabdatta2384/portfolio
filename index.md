@@ -5,7 +5,7 @@
   <img src="assets/img/main Logo.png" alt="Logo" style="width: 200px;" />
   <p align="center">
   <strong>Student | AI Enthusiast | Researcher</strong>
-</p>
+  </p>
 </div>
 
 
