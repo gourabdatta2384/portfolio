@@ -1,5 +1,5 @@
 
-# Student | AI Enthusiast | Researcher 
+# AI Enthusiast | Student | Researcher 
 
 ---
 
@@ -43,7 +43,7 @@ I enjoy exploring cutting-edge research, working on hands-on projects, and conti
 
 ## 🚀 Projects
 
-### 🧠 Machine Learning Projects
+### Machine Learning Projects
 
 - **[HEART FAILURE PREDICTION USING VOTING CLASSIFIER ](https://www.kaggle.com/code/gourabdatta/heart-failure-prediction-using-voting-classifier)**  
 -Personal Project 
@@ -71,7 +71,7 @@ I enjoy exploring cutting-edge research, working on hands-on projects, and conti
 
 ---
 
-### 🤖 Deep Learning Projects
+### Deep Learning Projects
 
 - **[COMPARATIVE ANALYSIS OF FACE DISEASES DETECTION USING DEEP TRANSFER LEARNING & KERAS TUNER](https://github.com/gourabdatta2384/Model-Implementations/blob/main/DenseNet_final.ipynb)**
 -Ongoing Research Project 
@@ -97,7 +97,7 @@ I enjoy exploring cutting-edge research, working on hands-on projects, and conti
 
 ---
 
-## 📫 Contact
+## Contact
 
 - **Email:** gourab.anup@gmail.com
 - **Cellphone:** +8801772087658
