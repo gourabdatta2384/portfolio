@@ -1,5 +1,7 @@
 
-# AI Enthusiast | Student | Researcher 
+# Gourab Datta
+
+## AI Enthusiast | Student | Researcher 
 
 ---
 
