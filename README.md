@@ -16,7 +16,7 @@ I enjoy exploring cutting-edge research, working on hands-on projects, and conti
 *Jashore University of Science and Technology, Jashore, Bangladesh*  
 2023 – Present
 
-**B.Sc, M.Sc, Computer Science and Engineering**  
+**B.Sc, Computer Science and Engineering**  
 *Daffodil International University, Dhaka, Bangladesh*  
 2019 – 2022
 
