@@ -24,9 +24,12 @@ I enjoy exploring cutting-edge research, working on hands-on projects, and conti
 
 ## Skills
 
-- **Programming Languages:** Python, Java, SQL, R, C
-- **Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-learn, Keras
-- **Tools:** Git, VS Code, Jupyter, Colab
+- **Languages:** Python, Java, SQL, R, C
+- **Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-learn, Keras, Pandas, NumPy, OpenCV
+- **Tools:** Visual Studio Code, Jupyter Notebook, Google Colab
+- **Database:** MySQL, BigQuery
+- **Version Control:** Git, GitHub
+- **Other Tools:** MS Excel, PowerPoint, Adobe XD
 
 ---
 
